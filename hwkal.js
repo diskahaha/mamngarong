@@ -75,7 +75,7 @@ global.limitawal = {
 global.thumb = fs.readFileSync("./baseikal/image/hw.jpg")
 global.visoka = fs.readFileSync("./baseikal/video/hikal.gif")
 global.log0 = fs.readFileSync("./baseikal/image/haikal.jpg")
-global.menuimg = "https://uploader.caliph.my.id/file/ENLFTmIW6E.jpg"
+global.menuimg = 'https://k.top4top.io/p_2388xws321.jpg'
 global.ggikal = fs.readFileSync("./baseikal/video/haikal.mp4")
 //=================================================//
 let file = require.resolve(__filename)
